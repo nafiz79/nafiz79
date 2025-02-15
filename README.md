@@ -37,11 +37,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<h3 align="left">GUI Development:</h3>
-<p align="left"> 
-<a href="https://www.geeksforgeeks.org/introduction-to-java-swing/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="javaswing" width="40" height="40"/> </a> </p>
-
 <h3 align="left">Database:</h3>
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
@@ -55,9 +50,9 @@
 </p>
 
 <h3 align="left">Profile Details:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-mahamood&show_icons=true&locale=en&layout=compact&theme=dark" alt="tanvir-mahamood" /> 
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanvir-mahamood&theme=dark" alt="tanvir-mahamood"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz79&show_icons=true&locale=en&layout=compact&theme=dark" alt="nafiz79" /> 
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiz79&theme=dark" alt="nafiz79"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-mahamood&show_icons=true&locale=en&theme=dark" alt="tanvir-mahamood" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz79&show_icons=true&locale=en&theme=dark" alt="nafiz79" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-mahamood&theme=dark" alt="tanvir-mahamood" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz79&theme=dark" alt="nafiz79" /></p>-->
